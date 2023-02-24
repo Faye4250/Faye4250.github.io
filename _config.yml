@@ -1,13 +1,13 @@
 # The Site Configuration
 
 # Import the theme
-theme: jekyll-theme-chirpy
+#theme: jekyll-theme-chirpy
 
 # Change the following value to '/PROJECT_NAME' ONLY IF your site type is GitHub Pages Project sites
 # and doesn't have a custom domain.
 
 #baseurl: ''
-#remote_theme: Faye4250/Faye4250.github.io
+remote_theme: jekyll-theme-chirpy
 
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
