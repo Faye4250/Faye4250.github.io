@@ -19,9 +19,11 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Empowering Feminist Works Compilation                        # the main title
+title: Title
+#Empowering Feminist Works Compilation                        # the main title
 
-tagline: Women are creating herstory.   # it will display as the sub-title
+tagline: tagline
+#Women are creating herstory.   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
