@@ -5,3 +5,7 @@ faye:
 momo1:
   name: momo1
   url: https://www.douban.com/people/139959143
+
+momo2:
+  name: momo2
+  url: https://www.douban.com/people/A770991978
