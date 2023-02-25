@@ -4,5 +4,9 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+
+这是一个私人口味的网络女权主义创作集锦，也是Faye的冲浪记录。
+
+目前在试运行阶段。
+
+关于文章授权，我将在本站具有>0曝光率之前征询作者们。
